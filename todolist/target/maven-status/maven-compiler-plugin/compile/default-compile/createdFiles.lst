@@ -1,0 +1,10 @@
+br\com\cheese\todolist\filter\FilterTaskAuth.class
+br\com\cheese\todolist\TodolistApplication.class
+br\com\cheese\todolist\errors\ExceptionHandlerController.class
+br\com\cheese\todolist\utils\Utils.class
+br\com\cheese\todolist\task\ITaskRepository.class
+br\com\cheese\todolist\task\TaskController.class
+br\com\cheese\todolist\user\IUserRepository.class
+br\com\cheese\todolist\user\UserModel.class
+br\com\cheese\todolist\task\TaskModel.class
+br\com\cheese\todolist\user\UserController.class
